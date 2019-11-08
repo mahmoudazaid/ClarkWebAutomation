@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Verträge",
+    "locator": "xpath",
+    "value": "//a[@href='/de/app/manager']"
+  },
+  {
+    "name": "Rente",
+    "locator": "xpath",
+    "value": "//a[@href='/de/app/retirement']"
+  },
+  {
+    "name": "Bedarf",
+    "locator": "xpath",
+    "value": "//a[@href='/de/app/manager/recommendations']"
+  },
+  {
+    "name": "close",
+    "locator": "xpath",
+    "value": "(//*[@id='offer-declined-card'])[3]"
+  },
+  {
+    "name": "Clark jetzt empfehlen",
+    "locator": "xpath",
+    "value": "//div[@class='swiper-slide ember-view cucumber-swiper-slide swiper-slide-active']//section[1]//div[1]//a[1]"
+  }
+]
