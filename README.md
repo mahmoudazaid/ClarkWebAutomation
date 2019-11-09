@@ -71,4 +71,5 @@ The Framework built with below main packages
 * To view the report you have to options 
     * Go to terminal and run this command `allure.bat serve allure-results`
     * Open index.html to view cucumber report
+    
   <img src="images/terminal.png" alt="Terminal">
