@@ -67,6 +67,8 @@ The Framework built with below main packages
 ### Usage
 * Clone the project to your local machine
 * Import the project to IntlliJ
-* Go to `src/test/java/features` then choose which feature file that you need to run right click and run
-* After running finished go to terminal and run this command `allure.bat serve allure-results`
+* Go to `src/test/java/runner` then choose which test suite that you need `TestRunner` right click and run
+* To view the report you have to options 
+    * Go to terminal and run this command `allure.bat serve allure-results`
+    * Open index.html to view cucumber report
   <img src="images/terminal.png" alt="Terminal">
